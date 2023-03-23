@@ -1,7 +1,7 @@
 # Ejercicios-PHP
 
 Ejecicio 1:  
-Cuentas con un reloj digital con leds de 7 (ver) segmentos y quieres saber cuántos segmentos se han encendido luego de n cantidad de segundos, el reloj cuenta con horas, minutos y segundos, por ejemplo 13:59:30. Ten cuenta que los segundos inician desde la posición 00:00:00, en cada segundo todos los leds se apagan y luego se encienden los correspondientes al instante actual.  
+Cuentas con un reloj digital con leds de 7 segmentos y quieres saber cuántos segmentos se han encendido luego de n cantidad de segundos, el reloj cuenta con horas, minutos y segundos, por ejemplo 13:59:30. Ten cuenta que los segundos inician desde la posición 00:00:00, en cada segundo todos los leds se apagan y luego se encienden los correspondientes al instante actual.  
 
 EJEMPLO:  
 Al iniciar la prueba, están todos los leds en 00:00:00, lo que da 36 segmentos encendidos, pasar dos segundos ya se han encendido 103 segmentos, luego de 10 segundos van 381 segmentos encendidos.  
