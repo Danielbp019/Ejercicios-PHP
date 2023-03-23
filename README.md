@@ -21,3 +21,5 @@ Ejercicio: Escribe una función en PHP que reciba dos cadenas de texto como par�
 
 EJEMPLO: 
 si se le pasa la cadena "`compromiso`" y la cadena "`piso`", la función debería devolver true porque es posible transformar " compromiso " en " piso " eliminando algunos caracteres. Si se le pasa la cadena "`programacion`" y la cadena "`juego`", la función debería devolver false.
+
+(https://stackedit.io/)
